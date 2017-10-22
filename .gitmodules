@@ -1,0 +1,3 @@
+[submodule "atlasexternals"]
+	path = atlasexternals
+	url = ssh://git@gitlab.cern.ch:7999/dguest/atlasexternals.git
